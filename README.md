@@ -1,8 +1,8 @@
-<h1 style="text-align:center">
-<p style="font-size:100px">🔐</p>
+<h1 align="center">
+<p align="center">🔐</p>
 Hacking-Tools
 </h1>
-<p style="text-align:center">
+<p align="center">
 	<a href="https://github.com/juliocarneiro/hacking-tools">
 		<img src="https://img.shields.io/github/contributors/juliocarneiro/hacking-tools">
 	</a>
