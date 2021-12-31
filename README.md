@@ -10,7 +10,7 @@ Hacking-Tools
 		<img src="https://img.shields.io/github/last-commit/juliocarneiro/hacking-tools/main">
 	</a>
 	<a href="https://mit-license.org/">
-		<img src="https://img.shields.io/github/license/juliocarneiro/Recon?color=%23C3E88D&style=flat-square">
+		<img src="https://img.shields.io/github/license/juliocarneiro/hacking-tools/main?color=%23C3E88D&style=flat-square">
 	</a>
 	<a href="https://github.com/juliocarneiro/hacking-tools">
 		<img src="https://img.shields.io/github/repo-size/juliocarneiro/hacking-tools?color=%23FFCB6B&style=flat-square">
