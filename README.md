@@ -40,7 +40,7 @@ Repository | Description
 [Chaos.](https://chaos.projectdiscovery.io/) | We actively collect and maintain internet-wide assets' data, this project is meant to enhance research and analyse changes around DNS for better insights.
 
 ## 🎫 License
-``Hacking-Tools`` was entirely coded with ❤ by [@8o8s33r3](https://twitter.com/8o8s33r3) and it is released under the MIT license.
+``Hacking-Tools`` was entirely coded with ❤ by [@juliocarneiro](https://github.com/juliocarneiro) and it is released under the MIT license.
 
 ## ☕ Buy me a coffee
 If you liked my job and want to support me in some way, buy me a coffee 😁
