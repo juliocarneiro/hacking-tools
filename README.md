@@ -28,7 +28,11 @@ Your [contributions](CONTRIBUTING.md) are always welcome !
 Repository | Description
 ---- | ----
 [Nmap](https://nmap.org/) | Nmap ("Network Mapper") is a free and open source (license) utility for network discovery and security auditing.
+[assetfinder](https://github.com/tomnomnom/assetfinder) | Find domains and subdomains potentially related to a given domain.
+[Subfinder](https://github.com/projectdiscovery/subfinder) | Subfinder is a subdomain discovery tool that discovers valid subdomains for websites by using passive online sources. It has a simple modular architecture and is optimized for speed. subfinder is built for doing one thing only - passive subdomain enumeration, and it does that very well.
+[Findomain](https://github.com/Findomain/Findomain) | The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
 [Amass](https://github.com/OWASP/Amass) | The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
+[shuffleDNS](https://github.com/projectdiscovery/shuffledns) | MassDNS wrapper written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support.
 
 
 ## ‍💻 Recon APIs
@@ -38,6 +42,18 @@ Repository | Description
 [Shodan.io](https://shodan.io) | Shodan is the world's first search engine for Internet-connected devices. Discover how Internet intelligence can help you make better decisions.
 [SecurityTrails](https://securitytrails.com/) | Robust APIs & Data Services for Security Teams.
 [Chaos.](https://chaos.projectdiscovery.io/) | We actively collect and maintain internet-wide assets' data, this project is meant to enhance research and analyse changes around DNS for better insights.
+
+## ‍💻 UI Panel
+
+Repository | Description
+---- | ----
+[ReconNess](https://github.com/reconness/reconness) | ReconNess helps you to run and keep all your #recon in the same place allowing you to focus only on the potentially vulnerable targets without distraction and without required a lot of bash skill or programing skill in general.
+
+## ‍💻 Social Engineering
+
+Repository | Description
+---- | ----
+[Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) | Tool social engineering [Access Webcam & Microphone & Os Password Grabber & Location Finder] With Ngrok
 
 ## 🎫 License
 ``Hacking-Tools`` was entirely coded with ❤ by [@juliocarneiro](https://github.com/juliocarneiro) and it is released under the MIT license.
