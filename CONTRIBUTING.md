@@ -1,6 +1,6 @@
 # Hacker Tools Repo :fire:
 
-> - HacktoberFest is back again. Showcase your coding skills by creating PRs and contributing to the Open Source.
+> - Showcase your coding skills by creating PRs and contributing to the Open Source.
 
 ### Let's Contribute :+1:
 
