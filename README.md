@@ -59,7 +59,7 @@ Repository | Description
 
 Repository | Description
 ---- | ----
-[CAICAI.py](https://github.com/juliocarneiro/caicai.py) | This is a simple Port Flooder written in Python 3. Use this tool to quickly stress test your network devices and measure your router's or server's load.
+[caicai.py](https://github.com/juliocarneiro/caicai.py) | This is a simple Port Flooder written in Python 3. Use this tool to quickly stress test your network devices and measure your router's or server's load.
 
 ## 🎫 License
 ``Hacking-Tools`` was entirely coded with ❤ by [@juliocarneiro](https://github.com/juliocarneiro) and it is released under the MIT license.
