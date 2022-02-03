@@ -33,6 +33,7 @@ Repository | Description
 [Findomain](https://github.com/Findomain/Findomain) | The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
 [Amass](https://github.com/OWASP/Amass) | The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
 [shuffleDNS](https://github.com/projectdiscovery/shuffledns) | MassDNS wrapper written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support.
+[Gobuster](https://github.com/OJ/gobuster) | Gobuster is a tool used to brute-force URIs, DNS, Virtual Host names on target web servers, Open Amazon S3 buckets.
 
 
 ## ‍💻 Recon APIs
