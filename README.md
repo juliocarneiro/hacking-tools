@@ -34,7 +34,8 @@ Repository | Description
 [Amass](https://github.com/OWASP/Amass) | The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
 [shuffleDNS](https://github.com/projectdiscovery/shuffledns) | MassDNS wrapper written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support.
 [Gobuster](https://github.com/OJ/gobuster) | Gobuster is a tool used to brute-force URIs, DNS, Virtual Host names on target web servers, Open Amazon S3 buckets.
-
+[ParamSpider](https://github.com/devanshbatham/ParamSpider) | Mining parameters from dark corners of Web Archives.
+[gau](https://github.com/lc/gau) | Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 
 ## ‍💻 Recon APIs
 
@@ -55,6 +56,7 @@ Repository | Description
 Repository | Description
 ---- | ----
 [Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) | Tool social engineering [Access Webcam & Microphone & Os Password Grabber & Location Finder] With Ngrok
+[BlackPhish](https://github.com/iinc0gnit0/BlackPhish) | 🔱 [ Phishing Made Easy ] 🔱 (In Beta)
 
 ## ‍💻 Port Flooder
 
